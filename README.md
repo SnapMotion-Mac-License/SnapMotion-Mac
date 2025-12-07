@@ -1,6 +1,6 @@
 # SnapMotion Premium License
 
-<img src="https://static.macupdate.com/products/45525/m/snapmotion-logo.png?v=1659508995" width="200" alt="App icon" align="left"/>
+<img src="https://media.imgcdn.org/repo/2023/03/webtolayers/webtolayers-fro-macos-icon.png" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>SnapMotion for macOS</h3>
